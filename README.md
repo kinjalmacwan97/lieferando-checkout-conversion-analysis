@@ -52,9 +52,8 @@ Three tables tie the funnel together: `customer_info`, `checkout_session`, and `
 `checkout_session` carries the key funnel fields — `final_status` (completed / abandoned), `final_step_reached`, `device_type`, `order_value`, and `time_taken_to_complete_order` (null when abandoned). `payment` holds method and status (success / failed). `event_info` logs each funnel step as its own timestamped event, which is what makes step-by-step conversion and drop-off calculable in the first place.
 
 > **Checkout Conversion Rate = completed sessions / started sessions**
-
-![Data model](./data_model.png)
-![Data flow](./data_flow.png)
+## 🗂️ Data Model
+![Data model](docs/data_model.png)
 
 ## 🛠️ Tools
 
@@ -73,6 +72,14 @@ I didn't want to stop at "here's where people drop off" — that's descriptive, 
 
 Step-level conversion and drop-off rates were calculated across the full funnel rather than treating "checkout abandonment" as one lump number — the whole point was to find the one step doing most of the damage instead of guessing.
 
+## 🌟 About Me & Connect
 
+Hi! I'm **Kinjal Macwan**, a passionate professional working on building robust data analytics and engineering solutions. I enjoy modeling datasets, crafting efficient SQL transformations, and turning raw data into business intelligence.
+
+Feel free to connect or reach out for collaboration!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinjal-macwan-90560a215)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macwankinjal18)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macwankinjal500@gmail.com)
 
 
