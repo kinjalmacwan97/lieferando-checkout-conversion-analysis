@@ -37,7 +37,7 @@ The largest leak currently identified is:
 
 **Payment Method Selected → Payment Submitted**
 
-This step loses **16.78% of users**, nearly double the drop-off at any other checkout step.
+This step loses **16.78% of users** that's nearly double the drop-off at any other step in checkout.
 
 ### Checkout Funnel
 
