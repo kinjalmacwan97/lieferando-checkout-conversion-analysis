@@ -1,4 +1,4 @@
-# lieferando-checkout-conversion-analysis
+# 🛵 lieferando-checkout-conversion-analysis
 
 **Product / Data Analytics — Funnel Analysis**  
 *A case study using synthetic Lieferando order data*
@@ -41,6 +41,16 @@ This step loses **16.78% of users** that's nearly double the drop-off at any oth
 
 
 What makes the payment step interesting is that people are already past the point of casual browsing — they've confirmed an address and picked a delivery time. That's real intent. Something at payment is still knocking a big chunk of them out anyway.
+
+---
+
+### 🔽 Checkout Funnel
+```text
+Checkout Started → Address Confirmed → Delivery Time Selected
+→ Payment Method Selected → Payment Submitted → Order Placed
+```
+
+---
 
 ## 🗂️ Data
 
