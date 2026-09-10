@@ -23,7 +23,7 @@ That makes checkout drop-off both **costly and potentially solvable**.
 
 ## 🎯 Goal
 
-**Improve checkout conversion:** the share of users who complete an order after starting checkout.
+**Improve checkout conversion:** the share of people who actually complete an order once they've started checkout.
 
 > More completed orders → more transactions → more revenue.
 
