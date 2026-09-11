@@ -1,7 +1,6 @@
 # 🛵 Lieferando Checkout Conversion Analysis
 
 **Product / Data Analytics — Funnel Analysis**  
-*A case study using synthetic Lieferando order data*
 
 ---
 
