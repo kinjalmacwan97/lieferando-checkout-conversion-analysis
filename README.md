@@ -71,7 +71,7 @@ I didn't want to stop at "here's where people drop off" — that's descriptive, 
 
 | # | Question |
 |---|---|
-| 1️⃣ | **Where** is the biggest leak, and how big is it relative to every other step? |
+| 1️⃣ | **Where** is the biggest leak, and how large is it relative to every other step? |
 | 2️⃣ | **Who** is dropping off — which segments abandon at a higher rate? |
 | 3️⃣ | **Why** — what's actually driving it (payment failures, device, delivery cost, order value)? |
 | 4️⃣ | **What's it worth** — if the leak at that step shrinks, what's the revenue recovered? |
