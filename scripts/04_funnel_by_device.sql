@@ -1,4 +1,4 @@
----- Device-wise funnel conversion and drop-off analysis
+----Q2 Device-wise funnel conversion and drop-off analysis
 WITH CTE_1 AS
 (SELECT
 	cs.device_type,
